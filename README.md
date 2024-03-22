@@ -1,7 +1,7 @@
 # FeatherLoader ❤️
 simple dll loader
 
-# Uhm, i`m maked this loader for 1-3 hours bc i`m noob in tkinter
+# Uhm, im maked this loader for 1-3 hours bc im noob in tkinter
 The antivirus may swear, but that's okay.
 
 # Хм, я сделал этот лоадер за 1-3 часа потому что я нуб в tkinter
